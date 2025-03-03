@@ -1,0 +1,32 @@
+.medium{
+    @media (max-width:600px){
+        max-width: 500px;
+        h1{
+            font-size: 1rem;
+        }
+        p{
+            font-size: 1rem;
+        }
+        h2{
+            font-size: 1rem;
+        }
+        li{
+            font-size: 0.75rem;
+        }
+    }
+    @media (max-width:460px){
+        max-width: 340px;
+        p{
+            font-size: 0.80rem;
+        }
+        h1{
+            font-size: 0.90rem;
+            font-weight: 900;
+        }
+        h2{
+            font-size: 0.90rem;
+            font-weight: 900;
+        }
+
+    }
+}

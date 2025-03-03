@@ -1,0 +1,17 @@
+.medium{
+    @media (max-width:639px){
+        overflow-y: scroll;
+        height: 70vh;
+        h1{
+            font-size: 1.5rem;
+        }
+     
+    }
+}
+
+.medium-font{
+    @media (max-width:639px){
+    font-size: 1.5rem;
+    text-align: center;
+    }
+}

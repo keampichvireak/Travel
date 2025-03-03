@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@media (max-width: 849px) {
+  .show-at-850px {
+    display: none !important;
+  }
+}
+
+@media(max-width:965px){
+  .show-at-966px{
+    display:none!important;
+  }
+}
