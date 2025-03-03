@@ -22,8 +22,8 @@ function HomePage() {
               <h1 className="font-cursive">ME ? </h1>
               <p className="font-cursive">Hi, Im Pika Pu</p>
               <p className="font-cursive">
-                A passionate traveler who's explored over 30 countries , I'm
-                here to share my adventure and tips with fellow travel
+                A passionate traveler who&apos;s explored over 30 countries ,
+                I&apos;m here to share my adventure and tips with fellow travel
                 enthusiasts .
               </p>
               <h2 className="font-cursive">My Favorite Spots </h2>
@@ -86,12 +86,12 @@ function HomePage() {
               </div>
               <div className="collapse-content leading-8 ">
                 <p className="font-sans text-sm md:text-md">
-                  I'm most interested in exploring urban landscapes. There's
-                  something incredibly exicitng about immersing mysel in the
-                  hustle and bustle of a new city. I love wandering through
-                  vibrant neighborhoods, experiencing the local culture, and
-                  uncovering hidden spots that only the locals know about . From
-                  visitng iconic landmars to trying out trendy cafes, urban
+                  I&apos;m most interested in exploring urban landscapes.
+                  There&apos;s something incredibly exicitng about immersing
+                  mysel in the hustle and bustle of a new city. I love wandering
+                  through vibrant neighborhoods, experiencing the local culture,
+                  and uncovering hidden spots that only the locals know about .
+                  From visitng iconic landmars to trying out trendy cafes, urban
                   destinations offer a dynamic mix of experiences that keep me
                   engaged and inspired .
                 </p>
@@ -105,7 +105,7 @@ function HomePage() {
               <div className="collapse-content">
                 <p className="font-sans leading-8">
                   My preferred travel style is budget-friendly adventure . I
-                  believe that travling doesn'have to be expensive to be
+                  believe that travling doesn&apos;have to be expensive to be
                   rewarding.I enjoy the thrill of finding affordable
                   accommodations, hunting down the best local street food, and
                   discovering attractions that are both unique and easy on the
@@ -125,16 +125,16 @@ function HomePage() {
               </div>
               <div className="collapse-content">
                 <p className="font-sans leading-8">
-                  I'm planning to travel during the spring season.Spring is a
-                  wonderful time to explore new destinations because the weather
-                  is usually mild, making it perfect for outdoor activies. I
-                  love witnessing the burst of colors as flowers bloom and
-                  landscapes come to life after winter. It's also a great time
-                  to visit popular tourist spots before the summer crowds
-                  arrive. Whether it's hiking through lush green trails,
-                  enjoying a picnic in a blooming garden, or simply strolling
-                  through a charming town , spring offers a refreshing and
-                  invigorating travel experience.
+                  I&apos;m planning to travel during the spring season.Spring is
+                  a wonderful time to explore new destinations because the
+                  weather is usually mild, making it perfect for outdoor
+                  activies. I love witnessing the burst of colors as flowers
+                  bloom and landscapes come to life after winter. It&apos;s also
+                  a great time to visit popular tourist spots before the summer
+                  crowds arrive. Whether it&apos;s hiking through lush green
+                  trails, enjoying a picnic in a blooming garden, or simply
+                  strolling through a charming town , spring offers a refreshing
+                  and invigorating travel experience.
                 </p>
               </div>
             </div>
